@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/23926de4-1004-4a77-9ab5-9d63ddda32ef)# YapayZekaDestekliKufurEngel
+ YapayZekaDestekliKufurEngel
  Google'nin ücretsiz yapay zekası olan Gemma-3 modelini kullandım böylece ChatGPT gibi apilere para ödeme zorunluluğu gerektirmez tamamen ücretsiz kullanıma açıktır.
 
 Sunucunun göndereceği komut - mesajlar config.yml üzerinden editlenebilir.
